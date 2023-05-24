@@ -1,2 +1,2 @@
 # Javascript_concepts
-Created with CodeSandbox
+This repository contains various important concepts in JavaScript with examples and refering link (resource), which is usefull for interview preparation.
